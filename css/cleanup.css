@@ -5,7 +5,7 @@
 }
 
 #wall.tag1 > #tag-2 {
-  display: none;
+  /*display: none;*/
 }
 /*
 div#wall #tag-3.slick {
